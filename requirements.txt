@@ -1,0 +1,5 @@
+# mamba==1.4.2
+# conda==23.3.1
+gradio==4.8.0
+torch
+fastai
