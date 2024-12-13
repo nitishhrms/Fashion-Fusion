@@ -7,7 +7,7 @@ We used **FastAI** to enhance the model’s performance, creating a robust class
 
 ### 💃🏼 Try It Out
 - 🌐 **Live Demo**: Test the classifier on our [Fashion Fusion Web App](https://huggingface.co/spaces/beckk123/fashionclassifier).
-- 📥 **Model Download**: Download the model [here](https://drive.google.com/file/d/1jjGAKMHxvL7xJIHXFXLBULOmln9eoavW/view?usp=sharing).
+- 📥 **Model Download**: Download the model present in repo named as model.pkl.
 
 ### 🔑 Key Features
 - **Categories**: Active Wear 🏋️, Ethnic Wear 👘, Goth Fashion 🖤, Business Wear 💼
